@@ -1,6 +1,6 @@
 aides:
 
-Github: https://github.com/cooljeanius/TicTacToe
-utilisé pour m'y retrouver dans l'architecture du code et dans les fonctions de base a utiliser, bien qu'etant ecrit en C++
+Github: https://github.com/Dark6273/TicTacToe (aide principale)
+utilisé pour m'y retrouver dans l'architecture du code et dans les fonctions de base a utiliser, ainsi que comment display la grid
 
-Claude: utilisé pour le makerfile, l'organisation des fichiers (avoir plusieurs fichiers .h au lieu d'un seul) ainsi que pour le find_win du mode PVE.
+Claude: utilisé pour l'organisation des fichiers (j'aurais probablement oublié d'avoir plusieurs fichiers .h au lieu d'un seul) ainsi que pour le mode PVE.
