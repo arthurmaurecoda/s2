@@ -3,8 +3,6 @@
 #include <stdio.h>
 #include <string.h>
 
-//tout ce que partagent les deux gamemodes (display, regles et prompt input)
-
 static const int LINES[8][3] = {
     {0,1,2},{3,4,5},{6,7,8},{0,3,6},{1,4,7},{2,5,8},{0,4,8},{2,4,6}
 };
@@ -41,5 +39,4 @@ static int ask_move(const char *b, char player) {
         printf("Case invalide (0-8, et libre).\n");
     }
 }
-
 #endif

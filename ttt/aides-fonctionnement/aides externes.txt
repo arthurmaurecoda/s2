@@ -3,4 +3,4 @@ aides:
 Github: https://github.com/Dark6273/TicTacToe (aide principale)
 utilisé pour m'y retrouver dans l'architecture du code et dans les fonctions de base a utiliser, ainsi que comment display la grid
 
-Claude: utilisé pour l'organisation des fichiers (j'aurais probablement oublié d'avoir plusieurs fichiers .h au lieu d'un seul) ainsi que pour le mode PVE.
+Claude: utilisé pour l'organisation en plusieurs .h fichiers ainsi que pour le mode PVE.
